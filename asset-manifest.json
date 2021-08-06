@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/destresser/static/css/main.b70f5c09.chunk.css",
+    "main.css": "/destresser/static/css/main.cdb7b123.chunk.css",
     "main.js": "/destresser/static/js/main.db48ad61.chunk.js",
     "main.js.map": "/destresser/static/js/main.db48ad61.chunk.js.map",
     "runtime-main.js": "/destresser/static/js/runtime-main.d4e5cb74.js",
@@ -8,13 +8,13 @@
     "static/js/2.3ea89b37.chunk.js": "/destresser/static/js/2.3ea89b37.chunk.js",
     "static/js/2.3ea89b37.chunk.js.map": "/destresser/static/js/2.3ea89b37.chunk.js.map",
     "index.html": "/destresser/index.html",
-    "static/css/main.b70f5c09.chunk.css.map": "/destresser/static/css/main.b70f5c09.chunk.css.map",
+    "static/css/main.cdb7b123.chunk.css.map": "/destresser/static/css/main.cdb7b123.chunk.css.map",
     "static/js/2.3ea89b37.chunk.js.LICENSE.txt": "/destresser/static/js/2.3ea89b37.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.d4e5cb74.js",
     "static/js/2.3ea89b37.chunk.js",
-    "static/css/main.b70f5c09.chunk.css",
+    "static/css/main.cdb7b123.chunk.css",
     "static/js/main.db48ad61.chunk.js"
   ]
 }
